@@ -272,7 +272,7 @@ color: white;
 
 }
 .membershiplink{
-    background-color: rgb(228, 95, 148);
+    background: linear-gradient(rgba(235, 33, 33, 0.6),rgb(30, 30, 216));
     text-decoration: none;
     color: white;
    
